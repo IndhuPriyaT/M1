@@ -121,7 +121,8 @@ return 0;
 ```
 
 ## OUTPUT:
-![Screenshot 2025-05-06 083629](https://github.com/user-attachments/assets/76d1aa2c-d2b9-4bc1-9721-e2ab5b1d593f)
+![Screenshot 2025-05-06 085822](https://github.com/user-attachments/assets/ab4badf7-ca86-4da8-a329-22de45753824)
+
 
 
 
